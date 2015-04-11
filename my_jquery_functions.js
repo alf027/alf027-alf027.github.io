@@ -7,6 +7,7 @@ $(document).ready(function(){
 		$(".tideimages").toggle();
 		$(".images").toggle();
 		$("p").toggle();
+		$("h2").toggle();
 		$("h1").toggle();
     });
 });
