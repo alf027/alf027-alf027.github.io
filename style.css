@@ -19,6 +19,7 @@ h2
   color: white;
   font-family: 'Montserrat', sans-serif;
   padding: 30px;
+  text-align:center;
 }
 
 p
@@ -100,6 +101,9 @@ p
   margin: 0;
 }
 
+.section{
+    text-align:center;
+  }
 #cssmenu.align-center ul {
   text-align: center;
 }
